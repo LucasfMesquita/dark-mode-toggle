@@ -11,7 +11,7 @@
     --transition-time: 0.3s;
 }
 
-#theme-toggle:checked {
+#theme-toggle:checked ~ .page {
     --bg-color: #212529;
     --text-color: #f8f9fa;
 
