@@ -106,7 +106,7 @@ h1 {
     top: 1px;
     left: 2px;
 
-    background-color: var(--toggle-active);
+    background-color: var(--toggle-circle);
     box-shadow: 0 2px 4px var(--shadow);
 
     transition: transform var(--transition-time) ease;
